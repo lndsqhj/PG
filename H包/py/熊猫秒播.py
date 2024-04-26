@@ -7,7 +7,7 @@ import re
 from base.spider import Spider
 import json
 sys.path.append('..')
-//xurl = "https://ee55ff.com/video.html"
+
 xurl= "https://www.qq88rr.com/video.html"
 
 headerx = {
