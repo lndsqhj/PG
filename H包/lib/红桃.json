@@ -10,6 +10,8 @@
     "播放链接": "href=\"&&\"",
     "直接播放": "1",
     "免嗅": "",
-    "分类": "國產$guochan#傳媒$chuanmei#日韓$rihan#解說$zongyi#動漫$dongman#歐美$oumei#AI換臉$AIhuanlian#同性$tongxing#三級片$sanjipian",
+     
+  //"分类": "國產$guochan#傳媒$chuanmei#日韓$rihan#解說$zongyi#動漫$dongman#歐美$oumei#AI換臉$AIhuanlian#同性$tongxing#三級片$sanjipian",
+    
     "分类url": "https://htd6k.vip:9527/type/{cateId}/---{catePg}/"
 }
