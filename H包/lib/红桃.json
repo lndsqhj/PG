@@ -8,8 +8,7 @@
 "标题": "class=\"vod-title\">&&</a>",
 "链接": "href=\"&&\"",
 "搜索url":"https://htd6k.vip:9527/search/{wd}/{pg}.html",
- "直接播放": "1",
 "免嗅":"1",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-"分类url":"https://htd6k.vip:9527/type/{cateId}/---{catePg}/"
+"分类url":"https://htd6k.vip:9527/type/{cateId}/"
 }
