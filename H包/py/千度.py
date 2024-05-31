@@ -50,6 +50,8 @@ class Spider(Spider):
         vod = [a for div in sourcediv for a in div.find_all('a')]
         result = {}
         result['class'] = []
+        result['class'].append({'type_id': '/best/2024-03', 'type_name': '热门2024年5月'})
+        result['class'].append({'type_id': '/best/2024-03', 'type_name': '热门2024年4月'})
         result['class'].append({'type_id': '/best/2024-03', 'type_name': '热门2024年3月'})
         result['class'].append({'type_id': '/best/2024-02', 'type_name': '热门2024年2月'})
         result['class'].append({'type_id': '/best/2024-01', 'type_name': '热门2024年1月'})
