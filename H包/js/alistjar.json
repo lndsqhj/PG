@@ -4,11 +4,15 @@
             "name": "网盘群友不忘初心",
             "search": true,
             "searchable": true,
-            "server": "http://36.140.110.103:10021/"
+            "server": "http://qqpyf.vip/",
+            "login": {
+                "username": "qq",
+                "password": "123456"
+            }
         },
         {
             "name": "群友H盘",
-            "server": "http://36.140.110.103:10021/",
+            "server": "http://36.140.110.103:10277/",
             "login": {
                 "username": "qq",
                 "password": "123456"
@@ -21,10 +25,16 @@
             "server": "http://192.168.31.239:5244/"
         },
         {
-            "name": "手机",
+            "name": "手机1",
             "search": true,
             "searchable": true,
-            "server": "http://127.0.0.1:5244/"
+            "server": "http://192.168.31.177:5244/"
+        },
+        {
+            "name": "手机2",
+            "search": true,
+            "searchable": true,
+            "server": "http://127.0.0.1:5245/"
         },
         {
             "name": "Ecve",
